@@ -1,0 +1,14 @@
+
+
+smehanetaibi@MacBook-Air-de-Smehane desktop % mkdir data
+smehanetaibi@MacBook-Air-de-Smehane desktop % cd data$
+cd: no such file or directory: data$
+smehanetaibi@MacBook-Air-de-Smehane desktop % cd data
+smehanetaibi@MacBook-Air-de-Smehane data % grep -E '2019.*Lyon.*PHP' data.csv > php_lyon_2019.csv
+smehanetaibi@MacBook-Air-de-Smehane data % grep -E 'Lyon.*JavaScript|Budapest.*JavaScript' data.csv > javascript_budapest_lyon.csv
+smehanetaibi@MacBook-Air-de-Smehane data % grep David data.csv > david.csv
+smehanetaibi@MacBook-Air-de-Smehane data % grep Angers data.csv | cut -d ',' -f4 > mail_angers.csv
+smehanetaibi@MacBook-Air-de-Smehane data % grep -E 'Bordeaux|Shanghai' data.csv | cut -d ',' -f4 > mails_bordeaux_shanghai.csv
+smehanetaibi@MacBook-Air-de-Smehane data % grep -c -E '2018.*Python' data.csv > python_2018.csv
+smehanetaibi@MacBook-Air-de-Smehane data % 
+
