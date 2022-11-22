@@ -1,0 +1,284 @@
+cet ex00 a été fait sur le terminal d'emma car je n'ai pas git pour clone : 
+
+
+
+
+
+emmachemineau@MacBook-Air-de-Emma piscine % ls
+Piscine00	covers		piscine_shell
+emmachemineau@MacBook-Air-de-Emma piscine % mv covers ./piscine_shell 
+emmachemineau@MacBook-Air-de-Emma piscine % cd piscine_shell 
+emmachemineau@MacBook-Air-de-Emma piscine_shell % ls
+covers				e_chemineau_piscine_shell2
+emmachemineau@MacBook-Air-de-Emma piscine_shell % mv covers ./e_chemineau_piscine_shell2/ex00 
+emmachemineau@MacBook-Air-de-Emma piscine_shell % cd e_chemineau_piscine_shell2/ex00 
+emmachemineau@MacBook-Air-de-Emma ex00 % ls
+covers
+emmachemineau@MacBook-Air-de-Emma ex00 % ls                                  
+covers
+emmachemineau@MacBook-Air-de-Emma ex00 % ls covers 
+dc_jetgrindradio_10.jpg				gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+dc_jetsetradio_eu_front.jpg			gc_mariokartdoubledash.jpg			ps4_fifa14.jpg					xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				gc_supermariosunshine.jpg			x360_callfoduty3.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty2.jpg				xbox_halo_2.jpg
+gameboy.pokmonred.jpg				playstation_4.unchartedthelostlegacy.jpg	x360_callofduty4.jpg				xbox_jetsetradiofuture_2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			x360_callofdutyblackopsii.jpg			xbox_needforspeedunderground2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_360.fableiii.jpg
+gb_pokemonyellow_au.jpg				playstation_5.farcry6.jpg			xbox_deadoralive3.jpg
+emmachemineau@MacBook-Air-de-Emma ex00 % mdkir constructeur                     
+zsh: command not found: mdkir
+emmachemineau@MacBook-Air-de-Emma ex00 % mkdir constructeur
+emmachemineau@MacBook-Air-de-Emma ex00 % cd constructeur
+emmachemineau@MacBook-Air-de-Emma constructeur % mkdir sony
+emmachemineau@MacBook-Air-de-Emma constructeur % cd ..                   
+emmachemineau@MacBook-Air-de-Emma ex00 % cd cover
+cd: no such file or directory: cover
+emmachemineau@MacBook-Air-de-Emma ex00 % clear 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+emmachemineau@MacBook-Air-de-Emma ex00 % cd covers
+emmachemineau@MacBook-Air-de-Emma covers % mkdir constructeur
+emmachemineau@MacBook-Air-de-Emma covers % cd constructeur
+emmachemineau@MacBook-Air-de-Emma constructeur % mkdir sony nintendo microsoft sega
+emmachemineau@MacBook-Air-de-Emma constructeur % cd sony
+emmachemineau@MacBook-Air-de-Emma sony % mkdir consoles consoles portables
+mkdir: consoles: File exists
+emmachemineau@MacBook-Air-de-Emma sony % cd consoles
+emmachemineau@MacBook-Air-de-Emma consoles % mkdir ps4 ps5
+emmachemineau@MacBook-Air-de-Emma consoles % cd ps4
+emmachemineau@MacBook-Air-de-Emma ps4 % cd ps4_fifa14
+cd: no such file or directory: ps4_fifa14
+emmachemineau@MacBook-Air-de-Emma ps4 % cd .. 
+emmachemineau@MacBook-Air-de-Emma consoles % cd ..
+emmachemineau@MacBook-Air-de-Emma sony % cd ..
+emmachemineau@MacBook-Air-de-Emma constructeur % cd ..
+emmachemineau@MacBook-Air-de-Emma covers % cd ps4_fifa14
+cd: no such file or directory: ps4_fifa14
+emmachemineau@MacBook-Air-de-Emma covers % cd ..
+emmachemineau@MacBook-Air-de-Emma ex00 % cd cover
+cd: no such file or directory: cover
+emmachemineau@MacBook-Air-de-Emma ex00 % cd covers
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur					gb_pokemonyellow_au.jpg				playstation_5.farcry6.jpg			xbox_deadoralive3.jpg
+dc_jetgrindradio_10.jpg				gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+dc_jetsetradio_eu_front.jpg			gc_mariokartdoubledash.jpg			ps4_fifa14.jpg					xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				gc_supermariosunshine.jpg			x360_callfoduty3.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty2.jpg				xbox_halo_2.jpg
+gameboy.pokmonred.jpg				playstation_4.unchartedthelostlegacy.jpg	x360_callofduty4.jpg				xbox_jetsetradiofuture_2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			x360_callofdutyblackopsii.jpg			xbox_needforspeedunderground2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_360.fableiii.jpg
+emmachemineau@MacBook-Air-de-Emma covers % cd ps4
+cd: no such file or directory: ps4
+emmachemineau@MacBook-Air-de-Emma covers % cd ps4_fifa14.jpg
+cd: not a directory: ps4_fifa14.jpg
+emmachemineau@MacBook-Air-de-Emma covers % pwd        
+/Users/emmachemineau/Desktop/piscine/piscine_shell/e_chemineau_piscine_shell2/ex00/covers
+emmachemineau@MacBook-Air-de-Emma covers % nv ps4_fifa14/ ps
+zsh: command not found: nv
+emmachemineau@MacBook-Air-de-Emma covers % ls  
+constructeur					gb_pokemonyellow_au.jpg				playstation_5.farcry6.jpg			xbox_deadoralive3.jpg
+dc_jetgrindradio_10.jpg				gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+dc_jetsetradio_eu_front.jpg			gc_mariokartdoubledash.jpg			ps4_fifa14.jpg					xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				gc_supermariosunshine.jpg			x360_callfoduty3.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofduty2.jpg				xbox_halo_2.jpg
+gameboy.pokmonred.jpg				playstation_4.unchartedthelostlegacy.jpg	x360_callofduty4.jpg				xbox_jetsetradiofuture_2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			x360_callofdutyblackopsii.jpg			xbox_needforspeedunderground2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_360.fableiii.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv ps4_fifa14.jpg ./constructeur/sony/consoles/ps4
+emmachemineau@MacBook-Air-de-Emma covers % mv playstation_4.unchartedthelostlegacy.jpg ./constructeur/sony/consoles/ps4
+emmachemineau@MacBook-Air-de-Emma covers % mv playstation_5.farcry6.jpg ./constructeurs/sony/consoles/ps5
+mv: rename playstation_5.farcry6.jpg to ./constructeurs/sony/consoles/ps5: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % mv playstation_5.farcry6.jpg ./constructeur/sony/consoles/ps5
+emmachemineau@MacBook-Air-de-Emma covers % cd constructeur
+emmachemineau@MacBook-Air-de-Emma constructeur % cd nintendo
+emmachemineau@MacBook-Air-de-Emma nintendo % mkdir gamecube
+emmachemineau@MacBook-Air-de-Emma nintendo % clear
+
+
+
+
+
+
+
+
+emmachemineau@MacBook-Air-de-Emma nintendo % mkdir consoles
+emmachemineau@MacBook-Air-de-Emma nintendo % mkdir consoles portables
+mkdir: consoles: File exists
+emmachemineau@MacBook-Air-de-Emma nintendo % cd consoles
+emmachemineau@MacBook-Air-de-Emma consoles % mkdir gamecube
+emmachemineau@MacBook-Air-de-Emma consoles % cd ..
+emmachemineau@MacBook-Air-de-Emma nintendo % cd portables
+emmachemineau@MacBook-Air-de-Emma portables % cd ..
+emmachemineau@MacBook-Air-de-Emma nintendo % cd ..   
+emmachemineau@MacBook-Air-de-Emma constructeur % cd ..
+emmachemineau@MacBook-Air-de-Emma covers % ls 
+constructeur					gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+dc_jetgrindradio_10.jpg				gb_pokemonyellow_au.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+dc_jetsetradio_eu_front.jpg			gbc_pokemongold.jpg				x360_callfoduty3.jpg				xbox_defjamfightforny.jpg
+dc_shenmue_eu.jpg				gc_mariokartdoubledash.jpg			x360_callofduty2.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				gc_supermariosunshine.jpg			x360_callofduty4.jpg				xbox_halo_2.jpg
+gameboy.pokmonred.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gb_pokemonblue_eu.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv gc_supermariosunshine.jpg ./constructeur/nintendo/consoles/gamecube
+emmachemineau@MacBook-Air-de-Emma covers % cd constructeur                                           
+emmachemineau@MacBook-Air-de-Emma constructeur % cd nintendo
+emmachemineau@MacBook-Air-de-Emma nintendo % cd portables
+emmachemineau@MacBook-Air-de-Emma portables % mkdir gameboy
+emmachemineau@MacBook-Air-de-Emma portables % cd .. .. 
+cd: string not in pwd: ..
+emmachemineau@MacBook-Air-de-Emma portables % cd..
+zsh: command not found: cd..
+emmachemineau@MacBook-Air-de-Emma portables % cd ..
+emmachemineau@MacBook-Air-de-Emma nintendo % cd ..
+emmachemineau@MacBook-Air-de-Emma constructeur % cd ..
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur					gb_pokemongreen_3.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+dc_jetgrindradio_10.jpg				gb_pokemonyellow_au.jpg				x360_callfoduty3.jpg				xbox_defjamfightforny.jpg
+dc_jetsetradio_eu_front.jpg			gbc_pokemongold.jpg				x360_callofduty2.jpg				xbox_halo2.jpg
+dc_shenmue_eu.jpg				gc_mariokartdoubledash.jpg			x360_callofduty4.jpg				xbox_halo_2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gameboy.pokmonred.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+gb_pokemonblue_eu.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv gb_pokemonblue_eu.jpg ./constructeur/nintendo/portables/gameboy
+emmachemineau@MacBook-Air-de-Emma covers % mv gameboy.pokmonred.jpg ./constructeur/nintendo/portables/gameboy
+emmachemineau@MacBook-Air-de-Emma covers % cd .. 
+emmachemineau@MacBook-Air-de-Emma ex00 % cd covers
+emmachemineau@MacBook-Air-de-Emma covers % cd constructeur 
+emmachemineau@MacBook-Air-de-Emma constructeur % cd microsoft
+emmachemineau@MacBook-Air-de-Emma microsoft % mkdir consoles
+emmachemineau@MacBook-Air-de-Emma microsoft % cd consoles
+emmachemineau@MacBook-Air-de-Emma consoles % mkdir xbox
+emmachemineau@MacBook-Air-de-Emma consoles % mkdir xbox360
+emmachemineau@MacBook-Air-de-Emma consoles % cd ..
+emmachemineau@MacBook-Air-de-Emma microsoft % cd ..
+emmachemineau@MacBook-Air-de-Emma constructeur % cd ..
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur					gbc_pokemongold.jpg				x360_callofduty2.jpg				xbox_halo2.jpg
+dc_jetgrindradio_10.jpg				gc_mariokartdoubledash.jpg			x360_callofduty4.jpg				xbox_halo_2.jpg
+dc_jetsetradio_eu_front.jpg			playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+dc_shenmue_eu.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+dc_shenmueii_5.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+gb_pokemongreen_3.jpg				playstation_5.residentevilvillage_.jpg		xbox_deadtorights.jpg
+gb_pokemonyellow_au.jpg				x360_callfoduty3.jpg				xbox_defjamfightforny.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv xbox_deadtorights.jpg ./constructeur/microsoft/consoles/xbox
+emmachemineau@MacBook-Air-de-Emma covers % mv xbox_halo_2.jpg ./constructeur/microsoft/consoles/xbox
+emmachemineau@MacBook-Air-de-Emma covers % mv x360_callofduty4.jpg ./constructeur/microsoft/consoles/xbox360
+emmachemineau@MacBook-Air-de-Emma covers % mv x360_callfoduty3.jpg ./constructeur/microsoft/consoles/xbox360
+emmachemineau@MacBook-Air-de-Emma covers % cd ..
+emmachemineau@MacBook-Air-de-Emma ex00 % cd ..
+emmachemineau@MacBook-Air-de-Emma e_chemineau_piscine_shell2 % cd ex00
+emmachemineau@MacBook-Air-de-Emma ex00 % cd covers
+emmachemineau@MacBook-Air-de-Emma covers % cd constructeur
+emmachemineau@MacBook-Air-de-Emma constructeur % cd saga
+cd: no such file or directory: saga
+emmachemineau@MacBook-Air-de-Emma constructeur % cd sega
+emmachemineau@MacBook-Air-de-Emma sega % mkdir consoles
+emmachemineau@MacBook-Air-de-Emma sega % cd consoles
+emmachemineau@MacBook-Air-de-Emma consoles % mkdir dreamcast
+emmachemineau@MacBook-Air-de-Emma consoles % cd ..
+emmachemineau@MacBook-Air-de-Emma sega % cd ..
+emmachemineau@MacBook-Air-de-Emma constructeur % cd ..
+emmachemineau@MacBook-Air-de-Emma covers % ls 
+constructeur					gb_pokemonyellow_au.jpg				playstation_5.residentevilvillage_.jpg		xbox_halo2.jpg
+dc_jetgrindradio_10.jpg				gbc_pokemongold.jpg				x360_callofduty2.jpg				xbox_jetsetradiofuture_2.jpg
+dc_jetsetradio_eu_front.jpg			gc_mariokartdoubledash.jpg			x360_callofdutyblackopsii.jpg			xbox_needforspeedunderground2.jpg
+dc_shenmue_eu.jpg				playstation_4.assassinscreedodyssey.jpg		xbox_360.fableiii.jpg
+dc_shenmueii_5.jpg				playstation_4.watchdogs2.jpg			xbox_deadoralive3.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_defjamfightforny.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetsetradio_eu_front.jpg ./constructeur/sega/dreamcast
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetsetradio_eu_front.jpg ./constructeur/sega/dreamcast
+mv: rename dc_jetsetradio_eu_front.jpg to ./constructeur/sega/dreamcast: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_shenmue_eu.jpg ./constructeur/consoles/dreamcast
+mv: rename dc_shenmue_eu.jpg to ./constructeur/consoles/dreamcast: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_shenmue_eu.jpg ./constructeur/sega/consoles/dreamcast
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetsetradio_eu_front.jpg ./constructeur/sega/consoles/dreamcast
+mv: rename dc_jetsetradio_eu_front.jpg to ./constructeur/sega/consoles/dreamcast/dc_jetsetradio_eu_front.jpg: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetsetradio_eu_front.jpg ./constructeur/sega/consoles/dreamcast
+mv: rename dc_jetsetradio_eu_front.jpg to ./constructeur/sega/consoles/dreamcast/dc_jetsetradio_eu_front.jpg: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetsetradio_eu_front.jpg ./constructeur/sega/consoles/dreamcast
+mv: rename dc_jetsetradio_eu_front.jpg to ./constructeur/sega/consoles/dreamcast/dc_jetsetradio_eu_front.jpg: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % clear 
+
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur					gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_defjamfightforny.jpg
+dc_jetgrindradio_10.jpg				gc_mariokartdoubledash.jpg			x360_callofduty2.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gb_pokemongreen_3.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+gb_pokemonyellow_au.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+emmachemineau@MacBook-Air-de-Emma covers % ls 
+constructeur					gbc_pokemongold.jpg				playstation_5.residentevilvillage_.jpg		xbox_defjamfightforny.jpg
+dc_jetgrindradio_10.jpg				gc_mariokartdoubledash.jpg			x360_callofduty2.jpg				xbox_halo2.jpg
+dc_shenmueii_5.jpg				playstation_4.assassinscreedodyssey.jpg		x360_callofdutyblackopsii.jpg			xbox_jetsetradiofuture_2.jpg
+gb_pokemongreen_3.jpg				playstation_4.watchdogs2.jpg			xbox_360.fableiii.jpg				xbox_needforspeedunderground2.jpg
+gb_pokemonyellow_au.jpg				playstation_5.assassinscreedvalhalla.jpg	xbox_deadoralive3.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetgrindradio_10.jpg ./constructeur/sega/consoles/dreamcast
+emmachemineau@MacBook-Air-de-Emma covers % mv playstation_4.watchdogs2.jpg playstation_4.assassinscreedodyssey.jpg ./constructeur/sony/consoles/ps4
+emmachemineau@MacBook-Air-de-Emma covers % mv   playstation_5.assassinscreedvalhalla.jpg playstation_5.residentevilvillage_.jpg ./constructeur/sony/consoles/ps5
+emmachemineau@MacBook-Air-de-Emma covers % mv x360_callofduty2.jpg x360_callofdutyblackopsii.jpg xbox_360.fableiii.jpg ./constructeur/microsoft/consoles/xbox360
+emmachemineau@MacBook-Air-de-Emma covers % mv dc_jetgrindradio_10.jpg dc_shenmueii_5.jpg ./constructeur/sega/consoles/dreamcast
+mv: dc_jetgrindradio_10.jpg: No such file or directory
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur				gb_pokemonyellow_au.jpg			gc_mariokartdoubledash.jpg		xbox_defjamfightforny.jpg		xbox_jetsetradiofuture_2.jpg
+gb_pokemongreen_3.jpg			gbc_pokemongold.jpg			xbox_deadoralive3.jpg			xbox_halo2.jpg				xbox_needforspeedunderground2.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv xbox_deadoralive3.jpg xbox_defjamfightforny.jpg xbox_halo2.jpg xbox_jetsetradiofuture_2.jpg xbox_needforspeedunderground2.jpg ./constructeur/microsoft/consoles/xbox
+emmachemineau@MacBook-Air-de-Emma covers % mv gb_pokemongreen_3.jpg gbc_pokemongold.jpg ./constructeur/nintendo/portables/gameboy
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur			gb_pokemonyellow_au.jpg		gc_mariokartdoubledash.jpg
+emmachemineau@MacBook-Air-de-Emma covers % mv gb_pokemonyellow_au.jpg gc_mariokartdoubledash.jpg ./constructeur/nintendo/portables/gameboy
+emmachemineau@MacBook-Air-de-Emma covers % ls
+constructeur
+emmachemineau@MacBook-Air-de-Emma covers % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
